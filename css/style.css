@@ -1,4 +1,16 @@
 body {
+  
+  font-size: 16px;
+  }
+  
+  h1 {
+  font-size: 2em; /* 28px */
+}
+
+p {
+  font-size: 100%; /* 16px */
+}
+{
   background-color: #ff0000;
   color: #0000FF;
 }
